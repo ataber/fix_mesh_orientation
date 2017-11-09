@@ -1,0 +1,9 @@
+[submodule "libigl"]
+	path = libigl
+	url = https://github.com/libigl/libigl.git
+[submodule "eigen"]
+	path = eigen
+	url = git@github.com:libigl/eigen.git
+[submodule "embree"]
+	path = embree
+	url = https://github.com/embree/embree.git
